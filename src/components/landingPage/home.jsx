@@ -2,7 +2,7 @@
 const HomePage = () => {
   return (
     <div>
-        wrfgwerf
+        rhrtshtr
     </div>
   )
 }
